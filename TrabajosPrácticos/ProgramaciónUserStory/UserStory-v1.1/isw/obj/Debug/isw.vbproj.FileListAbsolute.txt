@@ -1,0 +1,13 @@
+C:\Users\Alumno\Desktop\isw\isw\bin\Debug\isw.exe.config
+C:\Users\Alumno\Desktop\isw\isw\bin\Debug\isw.exe
+C:\Users\Alumno\Desktop\isw\isw\bin\Debug\isw.pdb
+C:\Users\Alumno\Desktop\isw\isw\bin\Debug\isw.xml
+C:\Users\Alumno\Desktop\isw\isw\obj\Debug\isw.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\isw\isw\obj\Debug\isw.ISW.resources
+C:\Users\Alumno\Desktop\isw\isw\obj\Debug\isw.Resources.resources
+C:\Users\Alumno\Desktop\isw\isw\obj\Debug\isw.Pedido.resources
+C:\Users\Alumno\Desktop\isw\isw\obj\Debug\isw.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\isw\isw\obj\Debug\isw.exe
+C:\Users\Alumno\Desktop\isw\isw\obj\Debug\isw.xml
+C:\Users\Alumno\Desktop\isw\isw\obj\Debug\isw.pdb
+C:\Users\Alumno\Desktop\isw\isw\obj\Debug\isw.Carrito.resources
